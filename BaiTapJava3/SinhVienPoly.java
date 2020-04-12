@@ -1,3 +1,4 @@
+package BaiTapJava3;
 public abstract class SinhVienPoly {
     public String hoTen;
     public String nganh;

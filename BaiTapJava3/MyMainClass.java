@@ -1,3 +1,4 @@
+package BaiTapJava3;
 public class MyMainClass {
     public static void main(String[] args) {
         SinhVienIT IT = new SinhVienIT("Nguyen Tuan Nghia", "CNTT", 10, 10, 10);

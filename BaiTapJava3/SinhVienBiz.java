@@ -1,3 +1,4 @@
+package BaiTapJava3;
 public class SinhVienBiz extends SinhVienPoly {
     public double diemMarketing;
     public double diemSales;
